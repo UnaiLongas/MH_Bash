@@ -1,0 +1,30 @@
+        xxxxxxxxxxxxxxxxxxxxxxxxxx         \n
+        xxxxxxxxxxxxxxxxxxxxxxxxxx         \n
+   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   \n
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx \n
+xxxx      xxxxxxxxxxxxxxxxxxxxxx       xxxx\n
+xxx       xxxxxxxxxxxxxxxxxxxxxx        xxx\n
+xx        xxxxxxxxxxxxxxxxxxxxxx        xxx\n
+xxx     xxxxxxxxxxxxxxxxxxxxxxxxxx      xxx\n
+xxx    xxxxxxxxxxxxxxxxxxxxxxxxxxxx    xxxx\n
+ xxx   xxx xxxxxxxxxxxxxxxxxxxx xxx    xxx \n
+ xxxx   xxx xxxxxxxxxxxxxxxxxx xxxx  xxxx  \n
+   xxxx  xxxxxxxxxxxxxxxxxxxxxxxxx xxxxx   \n
+    xxxxxxxx xxxxxxxxxxxxxxxx xxxxxxxxx    \n
+      xxxxxx  xxxxxxxxxxxxxx   xxxxxx      \n
+               xxxxxxxxxxxx                \n
+                 xxxxxxxx                  \n
+                   xxxx                    \n
+                   xxxx                    \n
+                   xxxx                    \n
+                   xxxx                    \n
+               xxxxxxxxxxxx                \n
+            xxxxxxxxxxxxxxxxxx             \n
+            xxxxxxxxxxxxxxxxxx             \n
+            xxx            xxx             \n
+            xxx            xxx             \n
+            xxx            xxx             \n
+            xxxxxxxxxxxxxxxxxx             \n
+            xxxxxxxxxxxxxxxxxx             \n
+          xxxxxxxxxxxxxxxxxxxxxx           \n
+         xxxxxxxxxxxxxxxxxxxxxxxx          \n
